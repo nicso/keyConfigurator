@@ -1,0 +1,10 @@
+.key {
+  background-color: hotpink;
+  width: 100px;
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  border-radius: 1rem;
+}
